@@ -6,7 +6,7 @@ My Page
 </title>
 </head>
 <body>
-
+<?php echo 'Hello World';?>
 <a href="http://maemo.org/"><img src="/logo.jpg" alt="Maemo" /></a>
 
 </body>
