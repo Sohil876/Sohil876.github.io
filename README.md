@@ -1,6 +1,6 @@
 
 ##################################
-My site for projects on Github...
+My blog
 ##################################
 
 http://Sohil876.github.io
