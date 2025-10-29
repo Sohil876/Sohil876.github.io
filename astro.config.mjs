@@ -4,9 +4,9 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://sohil876.github.io',
+  site: 'https://sohil876.is-a.dev',
   // Only use base path in production (GitHub Pages)
-  base: process.env.NODE_ENV === 'production' ? '/astro-theme-terminal' : '/',
+  base: process.env.NODE_ENV === 'production' ? '/' : '/',
   integrations: [sitemap()],
   markdown: {
     shikiConfig: {
